@@ -11,3 +11,5 @@ Click "File" -> "Build Settings" -> "Build" button.
 # Unity 3D version
 2023.1.0b20
 
+# New Theory of Everything - Indivison Theory
+https://github.com/paciom/Indivison_Theory
